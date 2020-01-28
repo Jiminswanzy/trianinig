@@ -1,0 +1,251 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "<!DOCTYPE html>\n<html>\n<head lang=\"en\">\n\t<title>swanzy.com</title>\n</head>\n<body>\n\t<header>\n\t\t<ul>\n\t\t\t<li>Travel</li>\n\t\t\t<li>KongaPay</li>\n\t\t\t<li>Express logics</li>\n\t\t\t<li>Drinks</li>\n\t\t\t<li>pasteries</li>\n\t\t</ul>\n  \n\n\t\t<ul>\n\t\t\t<li><a href=\"\">store locator</a></li>\n\t\t\t<select>\n\t\t\t\t<option>FAQs</option>\n\t\t\t\t<option>Contact Us</option>\n\t\t\t\t<option>Help</option>\n                 </select>\n\t\t\t<li><input type=\"Search\" name=\"\" placeholder=\"Search for products,brands and categories\"></li>\n\t\t\t<li><a href=\"\">sell on Konga</a></li>\n\t\t\t<li><a href=\"\">login/signup</a></li>\n\t\t</ul>\n\n\t\t<ul>\n\t\t\t<li><a href=\"\">All categories</a></li>\n\t\t\t<li><a href=\"\">Computer and Accessiries</a></li>\n\t\t\t<li><a href=\"\">Phone and Tablets</a></li>\n\t\t\t<li><a href=\"\">Electronics</a></li>\n\t\t\t<li><a href=\"\">Kongafashion</a></li>\n\t\t\t<li><a href=\"\">Home and kitchen</a></li>\n       </ul>\n          </header>\n\t\t\t<main>\n     <aside>\n\n\t\t<p><a href=\"\"> Home > computer And Accessories</a></p>\n\t\t\n\t\t<h2>Laptops</h2>\n\t\t\n\t\t<ul>  sort by:\n\t\t\t<li><a href=\"\">Relivance</a></li>\n\t\t\t<li><a href=\"\">Price-High to low</a></li>\n\t\t\t<li><a href=\"\">Price-Low to high</a></li>\n\n\t\t</ul>\n           \n           \n\t\t<p><h3>Browser categories - </h3></p>\n\t\t<p>computer And Acessories</p>\n\t\t<p>Deals</p>\n\t\t<hr>\n\t\n\n\t\t\n\t\t\t<p>Price -</p>\n\n\t\t<ul>\n\t\t\t\t<li><a href=\"\">under;&#8358;2000 </a></li>\n\t\t\t\t<li><a href=\"\">&#8358;2000-&#8358;5000  </a></li>\n\t\t\t\t<li><a href=\"\">&#8358;5000-&#8358; 10000 </a></li>\n\t\t\t\t<li><a href=\"\">&#8358;10000-&#8358; 20000 </a></li>\n\t\t\t\t<li><a href=\"\">&#8358;20000-&#8358; 40000 </a></li>\n\t\t\t\t<li><a href=\"\">Above &#8358;40000 </a></li>\n\t\t</ul>\n\n\t\t\t<p><h3>Custom Price Range</h3></p>\n\n\t\t\t<input type=\"number\" name=\"\" placeholder=\"&#8358;Min\">\n\t\t\t<input type=\"number\" name=\"\" placeholder=\"&#8358;Max \">\n            <button><a href=\"\">GO</a></button>\n\t\t\t<hr>\n\n\t\t\t<p><a href=\"\">Brand - </a></p>\n\t\t\t<input type=\"Search\" name=\"\" placeholder=\"Search Brand\">\n\n\t\t\t<ul>\n\t\t\t\t<li><a href=\"\"> Hp </a></li>\n\t\t\t\t<li><a href=\"\"> Lenovo </a></li>\n\t\t\t\t<li><a href=\"\"> Apple </a></li>\n\t\t\t\t<li><a href=\"\"> Microsoft </a></li>\n\t\t\t\t<li><a href=\"\"> Asus </a></li>\n\t\t\t\t<li><a href=\"\"> Zinox </a></li>\n\t\t\t\t<li><a href=\"\"> Acer </a></li>\n\t\t\t\t<li><a href=\"\"> Avanti </a></li>\n\t\t\t\t<li><a href=\"\"> Huawei </a></li>\n\t\t\t\t<li><a href=\"\"> Imose </a></li>\n\t\t\t\t<li><a href=\"\"> Panasonic </a></li>\n\t\t\t\t<li><a href=\"\"> Romoss </a></li>\n\t\t\t\t<li><a href=\"\"> Toshiba </a></li>\n            </ul>\n\n                 <h4><a href=\"\">View More Brand</a></h4>\n\t\t\t\t<hr>\n\t\t\t     <h3>Screen Size - </h3>\n\t\t\t     <br>\n\n\t\t\t     <ul>\n\t\t\t     \t<li><a href=\"\"> 15.6 inches </a></li>\n\t\t\t     \t<li><a href=\"\"> 14 inches </a></li>\n\t\t\t     \t<li><a href=\"\"> 11.6 inches </a></li>\n\t\t\t     \t<li><a href=\"\"> 15 inches </a></li>\n\t\t\t     \t<li><a href=\"\"> 11 inches </a></li>\n\t\t\t     \t<li><a href=\"\"> Others </a></li>\n\t\t\t     \t<li><a href=\"\"> 13.3 inches </a></li>\n\t\t\t     \t<li><a href=\"\"> 17.3 inches </a></li>\n\t\t\t     \t<li><a href=\"\"> 13 inches </a></li>\n\t\t\t     \t<li><a href=\"\"> 17 inches </a></li>\n\t\t\t   </ul>\n\t\t\t     <h4><a href=\"\">View More Screen Size</a></h4>\n\t\t\t     <hr>\n\n\t\t\t     <h3><a href=\"\">RAM Size -</a></h3>\n\t\t\t     <ul>\n\t\t\t     <a href=\"\"><li>4 GB</li></a>\n\t\t\t     <a href=\"\"><li>8 GB</li></a>\n\t\t\t     <a href=\"\"><li>12 GB</li></a>\n\t\t\t     <a href=\"\"><li>2 GB</li></a>\n\t\t\t     <a href=\"\"><li>16 GB</li></a>\n\t\t\t     <a href=\"\"><li>None</li></a>\n\t\t\t     <a href=\"\"><li> 6 GB</li></a>\n\t\t\t     <a href=\"\"><li>500 GB</li></a>\n\t\t\t     <a href=\"\"><li>3 GB</li></a>\n\t\t\t     <a href=\"\"><li>32 MB</li></a>\n\t\t\t     </ul>\n\t\t\t     <br>\n\t\t\t     <h4><a href=\"\">View More RAM Size </a></h4>\n\t\t\t     <hr>\n\n\t\t\t     <h3><a href=\"\">Batter Capacity -</a></h3>\n\t\t\t     <br>\n\n\t\t\t     <ul>\n\t\t\t     \t<a href=\"\"><li>Yes</li></a>\n\t\t\t     \t<a href=\"\"><li>3 CELL Battery</li></a>\n\t\t\t     \t<a href=\"\"><li>3 CELL Battery</li></a>\n\t\t\t     \t<a href=\"\"><li>4-cell Li-ion battery</li></a>\n\t\t\t     \t<a href=\"\"><li>4c Battery</li></a>\n\t\t\t     \t<a href=\"\"><li>Lithium-ion battery</li></a>\n\t\t\t     \t<a href=\"\"><li>4 Cell Battery</li></a>\n\t\t\t     \t<a href=\"\"><li>6 Cell Battery</li></a>\n\t\t\t     \t<a href=\"\"><li>1 Lithium ion battery requi</li></a>\n\t\t\t    </ul>\n\n\t\t\t    <h3><a href=\"\">View More Battery Capacity</a></h3>\n\t\t\t    <hr>\n\n\t\t\t    <h4><a href=\"\">Hard Drive -</a></h4>\n\t\t\t    <br>\n\n\t\t\t    <ul>\n\t\t\t    \t<a href=\"\"><li>500 GB</li></a>\n\t\t\t    \t<a href=\"\"><li>1 TB</li></a>\n\t\t\t    \t<a href=\"\"><li>32 GB</li></a>\n\t\t\t    \t<a href=\"\"><li>500 GB</li></a>\n\t\t\t    \t<a href=\"\"><li>2 TB</li></a>\n\t\t\t    \t<a href=\"\"><li>256 GB</li></a>\n\t\t\t    \t<a href=\"\"><li>512 GB</li></a>\n\t\t\t    \t<a href=\"\"><li>80 GB</li></a>\n\t\t\t    \t<a href=\"\"><li>64 GB</li></a>\n\t\t\t    \t<a href=\"\"><li>128 GB</li></a>\n\t\t\t    </ul>\n\n\t\t\t    <h3><a href=\"\">View More Hard Drive</a></h3>\n\t\t\t    <hr>\n\n\t\t\t    <h3><a href=\"\">Operating System - </a></h3>\n\t\t\t    <br>\n\n\t\t\t    <ul>\n\t\t\t    \t<a href=\"\"><li>Windows 10</li></a>\n\t\t\t    \t<a href=\"\"><li>Windows 8.1</li></a>\n\t\t\t    \t<a href=\"\"><li>Windows 7</li></a>\n\t\t\t    \t<a href=\"\"><li>No Os</li></a>\n\t\t\t    \t<a href=\"\"><li>Windows</li></a>\n\t\t\t    \t<a href=\"\"><li>Windows 8</li></a>\n\t\t\t    \t\n\t\t\t   </ul>\n\n\t\t\t   <h4><a href=\"\">View More Operating System</a></h4>\n\t\t\t   <hr>\n\t\t\t</aside>\n\t\t\t\n\n\t\t<section>\n\t\t\t<a href=\"\"> \n\t\t\t<img src=\"images/1.jpg\" height=\"100px\" width=\"300px\">\n\t\t\t<p>HP Pavilion 14 CE0002NIA</p>\n\t\t\t <P>Intel Core i ...</P>\n\t\t\t <p>&#8358;185,000  &#8358;<del>200,000</del></p>\n\t\t\t <p>Sold by Prime - Tech Nigeria Limited </p>\n\t\t\t <p>Pickup Available | Free Shipping</p>\n\t\t\t <button><a href=\"\">Add To Cart</a> </button>\n             </a>\n             <br>\n             <hr>\n\n              <a href=\"\"> \n\t\t\t<img src=\"images/1.jpg\" height=\"100px\" width=\"300px\">\n\t\t\t<p>HP Pavilion 14 CE0002NIA</p>\n\t\t\t <P>Intel Core i ...</P>\n\t\t\t <p>&#8358;185,000  &#8358;<del>200,000</del></p>\n\t\t\t <p>Sold by Prime Prime Gadgets </p>\n\t\t\t <p>Pickup Available | Free Shipping</p>\n\t\t\t <button><a href=\"\">Add To Cart</a> </button>\n             </a> \n             <hr>\n\n              <br>\n             <a href=\"\"> \n\t\t\t<img src=\"images/2.jpg\" height=\"100px\" width=\"200px\">\n\t\t\t<p>HP Pavilion 14 CE0002NIA</p>\n\t\t\t <P>Intel Core i ...</P>\n\t\t\t <p>&#8358;185,000  &#8358;<del>200,000</del></p>\n\t\t\t <p>Sold by Prime - Tech Nigeria Limited </p>\n\t\t\t <p>Pickup Available | Free Shipping</p>\n\t\t\t <button><a href=\"\">Add To Cart</a> </button>\n             </a>\n             <hr>\n           \n             <a href=\"\"> \n\t\t\t<img src=\"images/2.jpg\" height=\"100px\" width=\"200px\">\n\t\t\t<p>HP Pavilion 14 CE0002NIA</p>\n\t\t\t <P>Intel Core i ...</P>\n\t\t\t <p>&#8358;228,000  &#8358;<del>240,000</del></p>\n\t\t\t <p>Sold by Accuinfra - Technology... </p>\n\t\t\t <p>Pickup Available | Free Shipping</p>\n\t\t\t <button><a href=\"\">Add To Cart</a> </button>\n             </a>\n              <hr>\n\n             <a href=\"\"> \n\t\t\t<img src=\"images/1.jpg\" height=\"100px\" width=\"200px\">\n\t\t\t<p>HP Pavilion 14 CE0002NIA</p>\n\t\t\t <P>Intel Core i ...</P>\n\t\t\t <p>&#8358;167,000  &#8358;<del>190,000</del></p>\n\t\t\t <p>Sold by Prime - Tech Nigeria Limited </p>\n\t\t\t <p>Pickup Available | Free Shipping</p>\n\t\t\t <button><a href=\"\">Add To Cart</a> </button>\n             </a>\n             \n             <hr>\n             <a href=\"\"> \n\t\t\t<img src=\"images/4.jpg\" height=\"100px\" width=\"200px\">\n\t\t\t<p>HP Pavilion 14 CE0002NIA</p>\n\t\t\t <P>Intel Core 13-7020u,14\"1 ...</P>\n\t\t\t <p>&#8358;166,000  &#8358;<del>180,000</del></p>\n\t\t\t <p>Sold by Prime - Tech Nigeria Limited </p>\n\t\t\t <p>Pickup Available | Free Shipping</p>\n\t\t\t <button><a href=\"\">Add To Cart</a> </button>\n             </a>\n             <hr>\n\n             <a href=\"\"> \n\t\t\t<img src=\"images/1.jpg\" height=\"100px\" width=\"200px\">\n\t\t\t<p>HP Pavilion 14 CE0002NIA</p>\n\t\t\t <P>Intel Core 13-4gb ...</P>\n\t\t\t <p>&#8358;148,000  &#8358;<del>180,000</del></p>\n\t\t\t <p>Sold by Prime - Tech Nigeria Limited </p>\n\t\t\t <p>Pickup Available | Free Shipping</p>\n\t\t\t <button><a href=\"\">Add To Cart</a> </button>\n             </a>\n             <hr>\n\n             <a href=\"\"> \n\t\t\t<img src=\"images/11.jpg\" height=\"100px\" width=\"200px\">\n\t\t\t<p>HP Spectre 13-bto X360,</p>\n\t\t\t <P> Core 17-8th 1...</P>\n\t\t\t <p>&#8358;615,000 </p>\n\t\t\t <p>Sold by Liberalcomputers_ng </p>\n\t\t\t <p>Pickup Available | Free Shipping</p>\n\t\t\t <button><a href=\"\">Add To Cart</a> </button>\n             </a>\n             <hr>\n\n             <a href=\"\"> \n\t\t\t<img src=\"images/6.jpg\" height=\"100px\" width=\"200px\">\n\t\t\t<p>HP Envy 17-core 17-</p>\n\t\t\t <P>8th,18ghz-1TB H...</P>\n\t\t\t <p>&#8358;428,000  </p>\n\t\t\t <p>Sold by Prime - Tech Nigeria Limited </p>\n\t\t\t <p>Pickup Available | Free Shipping</p>\n\t\t\t <button><a href=\"\">Add To Cart</a> </button>\n             </a>\n            <hr>\n\n            <a href=\"\"> \n\t\t\t<img src=\"images/6.jpg\" height=\"100px\" width=\"200px\">\n\t\t\t<p>HP Hp Probook 450-g5</p>\n\t\t\t <P>1lu57av:intel Co...</P>\n\t\t\t <p>&#8358;288,000 </p>\n\t\t\t <p>Sold by Liberalcomputers_ng </p>\n\t\t\t <p>Pickup Available | Free Shipping</p>\n\t\t\t <button><a href=\"\">Add To Cart</a> </button>\n             </a>\n             <hr>\n\n             <a href=\"\"> \n\t\t\t<img src=\"images/7.jpg\" height=\"100px\" width=\"200px\">\n\t\t\t<p>HP spectre x360-15.6\"</p>\n\t\t\t <P>4k Touch + F...</P>\n\t\t\t <p>&#8358;619,000  &#8358;<del>699,000</del></p>\n\t\t\t <p>Sold by Vista computers </p>\n\t\t\t <p>Pickup Available | Free Shipping</p>\n\t\t\t <button><a href=\"\">Add To Cart</a> </button>\n             </a>\n             <hr>\n\n             <a href=\"\"> \n\t\t\t<img src=\"images/9.jpg\" height=\"100px\" width=\"200px\">\n\t\t\t<p>HP 15 - Intel pentinum</p>\n\t\t\t <P>Touchscreen - 4...</P>\n\t\t\t <p>&#8358;110,000</p>\n\t\t\t <p>Sold by Latdave Global Conc...</p>\n\t\t\t <p>Pickup Available | Free Shipping</p>\n\t\t\t <button><a href=\"\">Add To Cart</a> </button>\n             </a>\n             <hr>\n\n             <a href=\"\"> \n\t\t\t<img src=\"images/10.jpg\" height=\"100px\" width=\"200px\">\n\t\t\t<p>HP V130-151kb- Core 13/p>\n\t\t\t <P>15.6\"-1Tb...</P>\n\t\t\t <p>&#8358;128,000 </p>\n\t\t\t <p>Sold by Stone Of Computer </p>\n\t\t\t <p>Pickup Available | Free Shipping</p>\n\t\t\t <button><a href=\"\">Add To Cart</a> </button>\n             </a>\n             <hr>\n\n             <a href=\"\"> \n\t\t\t<img src=\"images/11.jpg\" height=\"100px\" width=\"200px\">\n\t\t\t<p>HP 255 G7- AMD Dual </p>\n\t\t\t <P>Core -500GB HDD...</P>\n\t\t\t <p>&#8358;89,000 </p>\n\t\t\t <p>Sold by Stores Of Computers </p>\n\t\t\t <p>Pickup Available | Free Shipping</p>\n\t\t\t <button><a href=\"\">Add To Cart</a> </button>\n             </a>\n         </section>\n\n         <footer>\n         \t<p><h4>Laptops</h4></p>\n\n         \t<p><h3>Buy Laptops Online</h3></p>\n         \n\n         \t<p>A laptop is a personal computer that can be easily moved and used in a variety of locations. Most laptops are designed to have all of the functionality of a desktop computer, which means they can generally run the same software and open the same types of files. Laptops have an all-in-one design, with a built-in monitor, keyboard, touchpad which replaces the mouse and speakers. It is fully functional even when no peripherals are connected. Laptops are quicker to set up, and there are fewer cables to get in the way. On Konga, we've got you covered with a wide range of laptops from top brands like Apple MacBook, HP, Lenovo, Dell, Acer, Asus, Toshiba more at best prices. There is also a laptop that suits your specific needs, with different sizes, operating systems, processors, RAM and internal storage to help you achieve your specific task.</p>\n<p>\nLaptops computers are desktop computers that have been transformed to a portable form in order for you to take it wherever you go for personal and business use as it has similar components when compared to the desktop device. They basically have inbuilt batteries, processors, graphics cards, storage memory, operating systems and other necessary software to work with. They are usually smaller than the PC which makes it easier to carry about but there are a lot of things to consider when making a purchase for a laptop computer, you can take advantage of our buying guide to make a better choice. Let’s have a quick review of laptops in the meantime; they usually come with two major processors, AMD or Intel in a dual-core system for faster performance. It also comes with drives for storage and modern notebooks come in at least 500 GB of memory space with a RAM size of 4 GB – 8 GB to make it work as fast as you want it to. It usually comes with 2 to 3 USB ports for data storage connection, you can also connect other mobile devices via the USB port such as phones, keyboards, mouse and so on. With newly improved technology, you can now connect your laptop via HDMI to your projector at the office for business presentations and also to your TV at home to watch movies for entertainment. Find the best laptops from top brands on Konga at the guaranteed lowest prices in Nigeria </p>\n\n\n<P><h3>Best Laptops at the Best Price in Nigeria on Konga</h3></P>\n\n<p> laptops, you also have to the option to connect a regular mouse, larger monitor, and other peripherals. This basically turns your laptop into a desktop computer, with one main difference: You can easily disconnect the peripherals and take the laptop with you wherever you go. A touchpad also called a trackpad is a touch-sensitive pad that lets you control the pointer by making a drawing motion with your finger. Every laptop has a battery, which allows you to use the laptop when it's not plugged in. Whenever you plug in the laptop, the battery recharges. Another benefit of having a battery is that it can provide backup power to the laptop if the power goes out. A laptop usually has a specialized power cable called an AC adapter, which is designed to be used with that specific type of laptop. Most laptops have the same types of ports found on desktop computers (such as USB), although they usually have fewer ports to save space. However, some ports may be different, and you may need an adapter in order to use them. Buy laptops on Konga and enjoy the best deals.</p>\n         </footer>\n\n\n</body>\n</html>",
+			"file": "assignment.html",
+			"file_size": 14239,
+			"file_write_time": 132148997180092446,
+			"settings":
+			{
+				"buffer_size": 13871,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "design.css",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Benjamin Swanzy/Documents/training/assignment.css",
+		"/C/Users/Benjamin Swanzy/Documents/training/css.html",
+		"/C/Users/Benjamin Swanzy/Documents/training website/web.html",
+		"/C/Users/Benjamin Swanzy/Documents/training website/second.html",
+		"/C/Users/Benjamin Swanzy/Desktop/firstweb.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"red"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "assignment.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13871,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								37,
+								37
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "design.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "assignment.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\Benjamin Swanzy\\Documents\\training website\\website.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 350.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
